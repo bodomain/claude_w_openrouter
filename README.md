@@ -1,7 +1,7 @@
 
 # Claude Code Configuration Helpers
 
-This guide provides simple scripts to redirect the **Claude Code CLI** to use **OpenRouter** as a backend. This allows for the use of alternative models, such as Arcee-AI Trinity, within the Claude interface.
+Redirect the **Claude Code CLI** to use **OpenRouter** as a backend. This allows for the use of alternative models, such as Arcee-AI Trinity, within the Claude interface.
 
 ## Setup
 
