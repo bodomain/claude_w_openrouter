@@ -2,8 +2,6 @@
 
 # 1. Load the variables from the .env file
 # This reads each line and exports it to the current shell
-!/bin/bash
-
 # Get the directory where this script is located
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 

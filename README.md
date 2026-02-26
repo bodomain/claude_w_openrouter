@@ -22,7 +22,7 @@ OPENROUTER_API_KEY=your_key_here
 To point Claude at a custom model, you **must source** the setup script. Sourcing ensures the environment variables are applied to your current terminal session rather than a temporary subshell.
 
 ```bash
-source ./start_claude.sh
+source ./claude_openrouter.sh
 
 ```
 
